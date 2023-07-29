@@ -1,7 +1,8 @@
 # Logic-Circuits-Lab-Project
 
-- project has 3 parts.
-- project descriptions:
+- **Logic Circuits Design Laboratory project (Fall 2021)**
+- project has 3 parts:
+
 
 ## 1. Calculator
 In CPUs, there is a specific component for computation called “Arithmetic Logic Unit” (abbreviated
